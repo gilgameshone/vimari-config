@@ -1,0 +1,32 @@
+{
+  "excludedUrls": "https://monkeytype.com",
+  "linkHintCharacters": "oeuhtnsaid",
+  "detectByCursorStyle": false,
+  "scrollSize": 150,
+  "openTabUrl": "https://duckduckgo.com/",
+  "modifier": "",
+  "smoothScroll": true,
+  "scrollDuration": 25,
+  "transparentBindings": true,
+  "bindings": {
+      "hintToggle": "f",
+      "newTabHintToggle": "shift+f",
+      "scrollUp": "o",
+      "scrollDown": "e",
+      "scrollLeft": "u",
+      "scrollRight": "a",
+      "scrollUpHalfPage": "q",
+      "scrollDownHalfPage": "j",
+      "goToPageTop": "-",
+      "goToPageBottom": "k",
+      "goToFirstInput": "g i",
+      "goBack": "shift+a",
+      "goForward": "shift+u",
+      "reload": "r",
+      "tabForward": "s",
+      "tabBack": "h",
+      "closeTab": "w",
+      "openTab": "t",
+      "duplicateTab": "y t"
+  }
+}
